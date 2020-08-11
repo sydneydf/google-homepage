@@ -26,13 +26,15 @@ li a:hover {
 }
 
 #searchbar{
-  width: 95%;
+  width: 62%;
 }
 
 .actualsearch{
   float: left;
-  top: 50%;
-  left: 50%;
+  top: 25%;
+  left: 25%;
+  right: 25%;
+  bottom: 25%;
 
   margin: -25px 0 0 -25px;
   text-align: center;
